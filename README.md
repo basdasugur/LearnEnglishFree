@@ -30,6 +30,9 @@ BÖLÜM : 3
 3.1 -> Telaffuz Geliştirme Püf Noktaları
 3.2 -> Noun - Adjectives - Verb
 3.3 -> Simple Present Tense and Frequency Adverbs and Every
+
+
+
 3.4 -> Wh-Questions and Simple Present Kullanımı
 3.5 -> İngilizce Cümle Kurma
 3.6 -> To, by, from prepositions
